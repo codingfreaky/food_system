@@ -1,0 +1,110 @@
+[
+  {
+    "model": "menu.ingredient",
+    "pk": 1,
+    "fields": {
+      "title": "avokado",
+      "slug": "avokado"
+    }
+  }, {
+    "model": "menu.ingredient",
+    "pk": 2,
+    "fields": {
+      "title": "puri",
+      "slug": "puri"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 3,
+    "fields": {
+      "title": "sabji",
+      "slug": "sabji"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 4,
+    "fields": {
+      "title": "chicken",
+      "slug": "chicken"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 5,
+    "fields": {
+      "title": "mutton",
+      "slug": "mutton"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 6,
+    "fields": {
+      "title": "paneer",
+      "slug": "paneer"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 7,
+    "fields": {
+      "title": "egg",
+      "slug": "egg"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 8,
+    "fields": {
+      "title": "bhurgi",
+      "slug": "bhurgi"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 9,
+    "fields": {
+      "title": "sol",
+      "slug": "sol"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 10,
+    "fields": {
+      "title": "matar paneer",
+      "slug": "matar paneer"
+    }
+  }, {
+    "model": "menu.ingredient",
+    "pk": 11,
+    "fields": {
+      "title": "matar aaloo",
+      "slug": "matar aaloo"
+    }
+  }, {
+    "model": "menu.dish",
+    "pk": 1,
+    "fields": {
+      "title": "Сbeans",
+      "calories": 713,
+      "meal_of_the_day": 2,
+      "slug": "supertost",
+      "ingredients": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    }
+  }
+]

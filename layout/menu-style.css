@@ -1,0 +1,22 @@
+.menu-style {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: # FFF;
+}
+a:link {
+	color: #FFF;
+}
+a:link {
+	color: #FFF;
+	text-decoration:none;
+}
+a:visited{
+	color: #FFF;
+	text-decoration:none;
+}
+a:hover{
+	color:# 909;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}

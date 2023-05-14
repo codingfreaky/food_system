@@ -1,0 +1,609 @@
+[
+  {
+    "model": "menu.category",
+    "pk": 1,
+    "fields": {
+      "title": "food system ",
+      "description": "food system ",
+      "slug": "bodi-meniu"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 109,
+    "fields": {
+      "title": "masrrom",
+      "slug": "masroom"
+    }
+  },
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 111,
+    "fields": {
+      "title": "Burger",
+      "slug": "big burger"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 112,
+    "fields": {
+      "title": "puri sabji",
+      "slug": "puri sabji"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 113,
+    "fields": {
+      "title": "lemon drink",
+      "slug": "limon drink"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 114,
+    "fields": {
+      "title": "samosa",
+      "slug": "samosa"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 115,
+    "fields": {
+      "title": "veg momo",
+      "slug": "veg momo"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 116,
+    "fields": {
+      "title": "avokado",
+      "slug": "avokado"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 117,
+    "fields": {
+      "title": "chicken panch",
+      "slug": "panch"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 118,
+    "fields": {
+      "title": "mutton",
+      "slug": "mutton"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 119,
+    "fields": {
+      "title": "roti",
+      "slug": "roti"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 120,
+    "fields": {
+      "title": "burji",
+      "slug": "burji"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 121,
+    "fields": {
+      "title": "sarbat",
+      "slug": "sarbat"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 122,
+    "fields": {
+      "title": "redis",
+      "slug": "redis"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 123,
+    "fields": {
+      "title": "chiken pyaja",
+      "slug": "chiken pyaja"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 124,
+    "fields": {
+      "title": "sol",
+      "slug": "sol"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 125,
+    "fields": {
+      "title": "laddu",
+      "slug": "laddu"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 126,
+    "fields": {
+      "title": "churma",
+      "slug": "churma"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 127,
+    "fields": {
+      "title": "bati",
+      "slug": "bati"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 128,
+    "fields": {
+      "title": "rasgulla",
+      "slug": "rasgulla"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 129,
+    "fields": {
+      "title": "anar",
+      "slug": "anar"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 130,
+    "fields": {
+      "title": "naan",
+      "slug": "naan"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 131,
+    "fields": {
+      "title": "bhature",
+      "slug": "bhature"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 132,
+    "fields": {
+      "title": "chaklas",
+      "slug": "chaklas"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 133,
+    "fields": {
+      "title": "puri",
+      "slug": "puri"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 134,
+    "fields": {
+      "title": "food",
+      "slug": "food"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 135,
+    "fields": {
+      "title": "pyaja",
+      "slug": "pyaja"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 136,
+    "fields": {
+      "title": "matar gobhi ",
+      "slug": "matar gobhi"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 137,
+    "fields": {
+      "title": "matar paneer",
+      "slug": "matar paneer"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 138,
+    "fields": {
+      "title": "matar masroom",
+      "slug": "matar masroom"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 139,
+    "fields": {
+      "title": "balbal",
+      "slug": "balbal"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 140,
+    "fields": {
+      "title": "wheat massa",
+      "slug": "massi roti"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 141,
+    "fields": {
+      "title": "green veg",
+      "slug": "green veg"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 142,
+    "fields": {
+      "title": "mango",
+      "slug": "mango"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 143,
+    "fields": {
+      "title": "rayata",
+      "slug": "rayata"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 144,
+    "fields": {
+      "title": "masrrom",
+      "slug": "masrrom"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 145,
+    "fields": {
+      "title": "saag",
+      "slug": "saag"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 146,
+    "fields": {
+      "title": "kachori",
+      "slug": "kachori"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 147,
+    "fields": {
+      "title": "chicken masala",
+      "slug": "chicken masala"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 148,
+    "fields": {
+      "title": "serial",
+      "slug": "sous"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 149,
+    "fields": {
+      "title": "salad veg",
+      "slug": "poroshok"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 150,
+    "fields": {
+      "title": "rice fry",
+      "slug": "rice fry"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 151,
+    "fields": {
+      "title": "pasta",
+      "slug": "pasta"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 152,
+    "fields": {
+      "title": "swweets",
+      "slug": "sakhar"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 153,
+    "fields": {
+      "title": "med",
+      "slug": "med"
+    }
+  },
+  {
+    "model": "menu.ingredient",
+    "pk": 154,
+    "fields": {
+      "title": "naan",
+      "slug": "naan"
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": 18,
+    "fields": {
+      "title": "Супертост с авокадо",
+      "calories": 713,
+      "meal_of_the_day": 2,
+      "slug": "supertost-s-avokado",
+      "ingredients": [
+        114,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125
+      ]
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": 19,
+    "fields": {
+      "title": "rajbhoj",
+      "calories": 217,
+      "meal_of_the_day": 3,
+      "slug": "rajbhoj",
+      "ingredients": [
+        111,
+        114,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134
+      ]
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": 20,
+    "fields": {
+      "title": "sarwahari veg",
+      "calories": 1715,
+      "meal_of_the_day": 4,
+      "slug": "sarvahari veg",
+      "ingredients": [
+        114,
+        115,
+        116,
+        124,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154
+      ]
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": 21,
+    "fields": {
+      "title": "kulcha",
+      "calories": 329,
+      "meal_of_the_day": 5,
+      "slug": "kulcha",
+      "ingredients": [
+        113,
+        114,
+        129,
+        155,
+        156,
+        157,
+        158,
+        159
+      ]
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": 22,
+    "fields": {
+      "title": "nonveg",
+      "calories": 1029,
+      "meal_of_the_day": 1,
+      "slug": "non veg",
+      "ingredients": [
+        144,
+        152,
+        160,
+        161,
+        162
+      ]
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": 23,
+    "fields": {
+      "title": "chicken",
+      "calories": 335,
+      "meal_of_the_day": 2,
+      "slug": "chicken",
+      "ingredients": [
+        153,
+        163,
+        164,
+        165,
+        166
+      ]
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": 24,
+    "fields": {
+      "title": "nonveg maniya",
+      "calories": 132,
+      "meal_of_the_day": 3,
+      "slug": "nonveg maniya",
+      "ingredients": [
+        129,
+        137,
+        167,
+        168,
+        169
+      ]
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": 25,
+    "fields": {
+      "title": "fish",
+      "calories": 160,
+      "meal_of_the_day": 4,
+      "slug": "fish",
+      "ingredients": [
+        129,
+        138,
+        158,
+        170
+      ]
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": 26,
+    "fields": {
+      "title": "fish curry",
+      "calories": 185,
+      "meal_of_the_day": 5,
+      "slug": "fish curry",
+      "ingredients": [
+        110,
+        163,
+        164,
+        171
+      ]
+    }
+  },
+  {
+    "model": "menu.dailymeal",
+    "pk": 1,
+    "fields": {
+      "title": "rice",
+      "dish_1": 17,
+      "dish_2": 18,
+      "dish_3": 19,
+      "dish_4": 20,
+      "dish_5": 21,
+      "calories": 3257
+    }
+  },
+  {
+    "model": "menu.dailymeal",
+    "pk": 2,
+    "fields": {
+      "title": "pulse",
+      "dish_1": 22,
+      "dish_2": 23,
+      "dish_3": 24,
+      "dish_4": 25,
+      "dish_5": 26,
+      "calories": 1841
+    }
+  },
+  {
+    "model": "menu.menu",
+    "pk": 1,
+    "fields": {
+      "title": "vegatable",
+      "description": "veg",
+      "calories_daily": 0,
+      "slug": "test-menu",
+      "category": 1,
+      "price_auto": false,
+      "price_daily": "600.00",
+      "price_weekly": "3000.00",
+      "price_monthly": "10000.00",
+      "day_1": 1,
+      "day_2": 2,
+      "day_3": 1,
+      "day_4": 2,
+      "day_5": 1,
+      "day_6": 2,
+      "day_7": 1
+    }
+  }
+]
